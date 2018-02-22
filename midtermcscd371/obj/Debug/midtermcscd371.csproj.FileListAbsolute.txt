@@ -1,0 +1,11 @@
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\bin\Debug\midtermcscd371.exe.config
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\bin\Debug\midtermcscd371.exe
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\bin\Debug\midtermcscd371.pdb
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.csprojResolveAssemblyReference.cache
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.Form1.resources
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.Properties.Resources.resources
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.csproj.GenerateResource.Cache
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.exe
+c:\users\james\onedrive\documents\visual studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.pdb
+C:\Users\james\OneDrive\Documents\Visual Studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.Form2.resources
+C:\Users\james\OneDrive\Documents\Visual Studio 2015\Projects\midtermcscd371\midtermcscd371\obj\Debug\midtermcscd371.AboutForm.resources
